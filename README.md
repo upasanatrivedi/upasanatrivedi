@@ -4,12 +4,12 @@
 
 - I am a tech and design enthusiast
 - I love to learn
--Nowadays, I am learning stack app development under Project MERN.
--I got the opportunity to learn form IIRS-ISRO on the applications of machine learning in Urban Studies.
-Also, I am learning WEB3 development within the WEB3 Entirety Community.
-I have a keen interest in learning Web3 ,C++ Coding ,Frontend development.
-I am also an artist and work with brush pens, marker and love making mandala , any detailed design interests me
-I am also looking for opportunites in content writing
+- Nowadays, I am learning stack app development under Project MERN.
+- I got the opportunity to learn form IIRS-ISRO on the applications of machine learning in Urban Studies.
+- Also, I am learning WEB3 development within the WEB3 Entirety Community.
+- I have a keen interest in learning Web3 ,C++ Coding ,Frontend development.
+- I am also an artist and work with brush pens, marker and love making mandala art , any detailed design interests me
+- I am also looking for opportunites in content writing
   
 
 <h2>🛠 Tech Stack</h2>
