@@ -4,7 +4,7 @@
 
 - I am a tech and design enthusiast
 - I love to learn
-- Nowadays, I am learning stack app development under Project MERN.
+- I have a great interest in machine learning and learning NLP too
 - I got the opportunity to learn form IIRS-ISRO on the applications of machine learning in Urban Studies.
 - Also, I am learning WEB3 development within the WEB3 Entirety Community.
 - I have a keen interest in learning Web3 ,C++ Coding ,Frontend development.
